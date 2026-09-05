@@ -156,7 +156,7 @@ The reports provide stakeholders with a structured view of **sales performance, 
 
 ## 👨‍💻 About Me
 
-I’m an aspiring **Data & Analytics professional** with a Mechanical Engineering background and hands-on experience applying data-driven thinking to real-world business operations.
+I’m an aspiring Data & Analytics professional with hands-on experience in inventory analysis and applying data-driven thinking to real-world business operations.
 
 I’m building my skills in **Excel, Power BI, SQL, and Python** and actively developing business-focused analytics projects.
 
