@@ -158,7 +158,7 @@ The reports provide stakeholders with a structured view of **sales performance, 
 
 I’m an aspiring Data & Analytics professional with hands-on experience in inventory analysis and applying data-driven thinking to real-world business operations.
 
-I’m building my skills in **Excel, Power BI, SQL, and Python** and actively developing business-focused analytics projects.
+I’m building my skills in **Excel, Power BI, SQL, Python, Power Automate and n8n** and actively developing business-focused analytics projects.
 
 ---
 
